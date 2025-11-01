@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 I’m a **Python Developer** and **Cloud Enthusiast** with hands-on experience in backend automation, AI-based systems, and scalable cloud solutions.  
-I enjoy solving real-world problems — from building bots and web apps to optimizing cloud pipelines using AWS and OCI.  
+I enjoy solving real-world problems -- from building bots and web apps to optimizing cloud pipelines using AWS and OCI.  
 
 I’ve also worked with international clients, managed eCommerce websites, and even handled digital marketing to better understand how tech connects to real business value.
 
