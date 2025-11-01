@@ -14,7 +14,7 @@
 ### 🧠 About Me  
 
 I’m a **Python Developer** and **Cloud Enthusiast** who loves building scalable systems, automation tools, and AI-based applications.  
-I’ve worked with **AWS**, **OCI**, and **Cloudflare** to build and deploy reliable cloud infrastructures. and I’m always exploring how code can solve real-world problems.  
+I’ve worked with **AWS**, **OCI**, and **Cloudflare** to build and deploy reliable cloud infrastructures --- and I’m always exploring how code can solve real-world problems.  
 Beyond coding, I’ve collaborated with **international clients**, managed **eCommerce platforms**, and gained hands-on **digital marketing** experience to connect tech with business value.  
 
 ---
