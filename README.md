@@ -50,7 +50,7 @@
 
 | 🧩 Project | Description |
 |------------|-------------|
-| 🎬 [YouTube Video Automation using FFmpeg](https://github.com/halim4989/some-py/tree/main/YouTube-automation) | Automates YouTube video editing using `pytube` + `FFmpeg` (download, merge, outro). |
+| 🎬 [YouTube Video Automation using FFmpeg](https://github.com/halim4989/some-py/tree/main/YouTube-automation) | Automates YouTube video editing using `pytube` + `FFmpeg` (download, trim, merge, outro). |
 | 💬 [Python Django Web Communication App](https://github.com/halim4989/HelloBuddy) | Real-time peer-to-peer messaging web app built with Django + WebSockets. |
 | 🪙 [EVE-Online-API](https://github.com/halim4989/EVE-Online-API) | Concurrent API retriever & data analyzer for EVE Online marketplace using threading + Pandas. |
 | 🤖 [igbotFix (Instagram Bot Fix)](https://github.com/halim4989/igbotFix) | Fixed and optimized automation logic for social media engagement. |
